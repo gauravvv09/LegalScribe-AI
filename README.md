@@ -1,5 +1,5 @@
 
-** **LegalScribeAI – AI-Powered Legal Document Assistant** ** 
+ **LegalScribeAI – AI-Powered Legal Document Assistant** 
 
  **Introduction**  
 Legal documentation can be a daunting task for individuals and small businesses, often requiring professional expertise to ensure accuracy and compliance. The complex language used in legal documents makes it challenging for non-lawyers to understand, leading to potential errors and misinterpretations.  
